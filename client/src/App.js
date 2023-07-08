@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 
 import Login from "./pages/Login"
 import Home from "./pages/Home"
+import ListaUtenti from "./pages/ListaUtenti";
 import { useState } from "react";
 import PaginaRegistrazione from "./pages/PaginaRegistrazione";
 
