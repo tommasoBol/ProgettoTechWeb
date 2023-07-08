@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Tommaso",
+        "password": "a",
+        "isMod": true,
+        "quotaCaratteri": 1000,
+        "iscrizioni": [
+            "§calcio"
+        ]
+    },
+    {
+        "username": "Monica",
+        "password": "m",
+        "isMod": false,
+        "quotaCaratteri": 1000,
+        "iscrizioni": [
+            "§figa"
+        ]
+    },
+    {
+        "username": "tommi",
+        "password": "ciao",
+        "isMod": false,
+        "quotaCaratteri": 1000
+    }
+]

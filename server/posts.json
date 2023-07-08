@@ -1,0 +1,437 @@
+[
+    {
+        "id": 1,
+        "autore": "Tommaso",
+        "destinatari": [
+            "§figa",
+            "§calcio"
+        ],
+        "corpo": "Ciao Bobo",
+        "nomeImmagine": "",
+        "rPos": [
+            "Tommaso"
+        ],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 2,
+        "autore": "Monica",
+        "destinatari": [
+            "§calcio"
+        ],
+        "corpo": "Ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 3,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "",
+        "nomeImmagine": "a02d85dc9d308f0ffce41484eeae3c1d",
+        "rPos": [],
+        "rNeg": [
+            "Tommaso"
+        ],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 4,
+        "autore": "Monica",
+        "destinatari": [
+            "§calcio"
+        ],
+        "corpo": "ciao",
+        "nomeImmagine": "",
+        "rPos": [
+            "Tommaso"
+        ],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 5,
+        "autore": "Tommaso",
+        "destinatari": [
+            "§figa",
+            "§calcio"
+        ],
+        "corpo": "Ciao Bobo",
+        "nomeImmagine": "",
+        "rPos": [
+            "Tommaso"
+        ],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 6,
+        "autore": "Monica",
+        "destinatari": [
+            "§calcio"
+        ],
+        "corpo": "ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [
+            "Tommaso"
+        ],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 7,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao a tutti, come va?",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 8,
+        "autore": "Tommaso",
+        "destinatari": [
+            "Monica"
+        ],
+        "corpo": "ciao ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 9,
+        "autore": "Tommaso",
+        "destinatari": [
+            "Monica"
+        ],
+        "corpo": "ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 10,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 11,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao nuovo post con posts() aggiornato",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 12,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao a tutti modifico lo skip",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 13,
+        "autore": "Tommaso",
+        "destinatari": [
+            "§calcio"
+        ],
+        "corpo": "ciao",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 14,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao nuovo skpi",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 15,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao1",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [
+            {
+                "autore": "Monica",
+                "messaggio": "ciao",
+                "data": "2023-07-08T18:19:36.211Z"
+            },
+            {
+                "autore": "Monica",
+                "messaggio": "ciao",
+                "data": "2023-07-08T18:19:36.211Z"
+            }
+        ],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 16,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao2",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 17,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao3",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [
+            {
+                "autore": "Tommaso",
+                "messaggio": "ciao bello come stai?",
+                "data": "2023-07-08T18:19:36.211Z"
+            }
+        ],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 18,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao4",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 19,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao5",
+        "nomeImmagine": "",
+        "rPos": [
+            "Tommaso"
+        ],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 20,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "ciao ciao5",
+        "nomeImmagine": "",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 21,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "",
+        "nomeImmagine": "affad5ce0c28f2f03cdba66bb5623cab",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [
+            {
+                "autore": "Tommaso",
+                "messaggio": "bel cervo, 8/10",
+                "data": "2023-07-08T18:19:36.211Z"
+            }
+        ],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    },
+    {
+        "id": 22,
+        "autore": "Tommaso",
+        "destinatari": [
+            "TUTTI"
+        ],
+        "corpo": "",
+        "nomeImmagine": "1311f9f9b7f3f514145f595b052b4d74",
+        "rPos": [],
+        "rNeg": [],
+        "commenti": [
+            {
+                "autore": "Tommaso",
+                "messaggio": "ciao come stai?, bellissima foto",
+                "data": "2023-07-08T18:19:36.211Z"
+            }
+        ],
+        "categoria": "",
+        "canaliRedazione": [],
+        "visualizzazioni": [
+            "Tommaso"
+        ],
+        "data": "2023-07-08T18:43:38.833Z"
+    }
+]

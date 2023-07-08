@@ -1,0 +1,166 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #303433;
+}
+
+.wrapper {
+  min-height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: whitesmoke;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile {
+  display:none;
+}
+
+
+section.side {
+  background-size: 100% 102%;
+}
+
+.side img {
+  width: 50%;
+  max-width: 50%;
+}
+
+.login-container {
+  max-width: 450px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.separator {
+  width: 40%;
+  height: 4px;
+  background-color: #843bc7;
+  margin: 24px;
+}
+
+.welcome-message {
+  text-align: center;
+  font-size: 1.1em;
+  line-height: 28px;
+  margin-bottom: 8%;
+  color: #696969;
+}
+
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  width: 100%;
+  position: relative;
+  margin-bottom: 24px;
+}
+
+
+button {
+  border: none;
+  outline: none;
+  font-size: 1.1em;
+}
+
+.login-form input {
+  border: none;
+  outline: none;
+  font-size: 1.1em;
+  width: 100%;
+  background: #e6e6e6;
+  color: #333;
+  letter-spacing: 0.5px;
+  padding: 14px 64px;
+}
+
+input ~ i {
+  position: absolute; 
+  left: 32px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  transition: color   0.4s;
+}
+
+input:hover ~ i {
+  color: #843bc7;
+}
+
+input.submit {
+  color: #fff;
+  padding: 14px 64px;
+  margin: 32px auto;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #8b33c5, #15a0e1);
+  cursor: pointer;
+  transition: opacity 0.4s;
+}
+
+.btn-register {
+  color: #fff;
+  padding: 7px 20px;
+  margin: 32px auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #8b33c5, #15a0e1);
+  cursor: pointer;
+  transition: opacity 0.4s;
+  align-self: flex-end;
+}
+
+input.submit:hover, .btn-registrazione:hover {
+  opacity: 0.9;
+}
+
+/* ----  Responsiveness   ----  */
+@media (max-width: 780px) {
+
+  .wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .mobile {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+  }
+
+  .mobile img {
+    width: 20vw;
+  }
+
+  .side {
+      display: none;
+  }
+}
