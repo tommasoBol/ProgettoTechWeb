@@ -1,1 +1,6 @@
 *.json
+server/*.json
+client/*.json
+node_modules/
+server/files/
+client/node_modules/
