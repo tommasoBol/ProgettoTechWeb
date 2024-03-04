@@ -1,0 +1,72 @@
+
+.profile__info {
+    display: flex;
+    padding-bottom: 10px;
+    border-width: 0px 1px 5px 1px;
+    border-style: groove;
+    border-color: black;
+    padding-right: 10px;
+    align-items: center;
+  }
+  
+  .profile__info__avatar {
+    width: 20%;
+  }
+  
+  .profile__info__avatar img {
+    width: 80%;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  
+  .profile__info__info {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-items: center;
+  }
+  
+  .create__channel {
+    color: #fff;  
+    background-image: linear-gradient(to right, #9900ff, #0086c4);
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .create__channel:hover {
+    opacity: 0.9;
+  }
+  
+  .gestione__canali {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding-top: 20px;
+  }
+  
+  .canale__gestito {
+    padding-top: 3px;
+    font-size: 20px;
+  }
+  
+  .canale__gestito button {
+    background-image:linear-gradient(to right, #d8c8e3, #80bbd6df);
+    padding: 10px 10px;
+    flex-grow: 1; 
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 700;
+    border-radius: 10px;
+  }
+  
+  .canale__gestito button:hover {
+    opacity: 0.8;
+  }
+
+  @media screen and (max-width: 768px) {
+    .gestione__canali {
+      display: none;
+    }
+  }

@@ -16,8 +16,15 @@
 
 section {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.submain {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
 }
 
 .mobile {
@@ -98,16 +105,17 @@ button {
   padding: 14px 64px;
 }
 
-input ~ i {
+
+input ~ span {
   position: absolute; 
-  left: 32px;
+  left: 20px;
   top: 50%;
   transform: translateY(-50%);
   color: #888;
   transition: color   0.4s;
 }
 
-input:hover ~ i {
+input:hover ~ span {
   color: #843bc7;
 }
 
@@ -115,6 +123,18 @@ input.submit {
   color: #fff;
   padding: 14px 64px;
   margin: 32px auto;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #8b33c5, #15a0e1);
+  cursor: pointer;
+  transition: opacity 0.4s;
+}
+
+.submain input.submit {
+  color: #fff;
+  padding: 14px 64px;
+  margin: 10px auto;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: bold;
@@ -140,20 +160,28 @@ input.submit:hover, .btn-registrazione:hover {
 }
 
 /* ----  Responsiveness   ----  */
-@media (max-width: 780px) {
+@media (max-width: 768px) {
 
   .wrapper {
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: flex-start;
       align-items: center;
   }
 
   .mobile {
     display:flex;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     width: 100%;
+  }
+
+  #mobile-box {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
   }
 
   .mobile img {
@@ -162,5 +190,9 @@ input.submit:hover, .btn-registrazione:hover {
 
   .side {
       display: none;
+  }
+
+  .submain {
+    display: none;
   }
 }

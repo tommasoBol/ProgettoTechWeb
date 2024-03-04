@@ -1,26 +1,51 @@
 [
     {
         "username": "Tommaso",
-        "password": "a",
+        "password": "t",
+        "isMod": false,
+        "quotaCaratteri": 1582,
+        "iscrizioni": [
+            "§NEWS"
+        ],
+        "bloccato": false
+    },
+    {
+        "username": "Filippo",
+        "password": "f",
         "isMod": true,
-        "quotaCaratteri": 1000,
+        "quotaCaratteri": 2000,
+        "iscrizioni": [],
+        "bloccato": false
+    },
+    {
+        "username": "Giacomo",
+        "password": "g",
+        "isMod": false,
+        "quotaCaratteri": 1788,
         "iscrizioni": [
+            "§NEWS",
             "§calcio"
-        ]
+        ],
+        "bloccato": false
     },
     {
-        "username": "Monica",
-        "password": "m",
+        "username": "Sara",
+        "password": "s",
         "isMod": false,
-        "quotaCaratteri": 1000,
+        "quotaCaratteri": 1894,
         "iscrizioni": [
-            "§figa"
-        ]
+            "§NEWS",
+            "§POPULAR",
+            "§CONTROVERSIAL"
+        ],
+        "bloccato": false
     },
     {
-        "username": "tommi",
-        "password": "ciao",
-        "isMod": false,
-        "quotaCaratteri": 1000
+        "username": "REDAZIONE SQUEALER",
+        "password": "rs",
+        "isMod": true,
+        "quotaCaratteri": 2200,
+        "iscrizioni": [],
+        "bloccato": false
     }
 ]
